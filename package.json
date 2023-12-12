@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "grid-engine": "^2.43.1",
+    "phaser": "^3.70.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
